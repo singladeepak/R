@@ -24,7 +24,8 @@
 //const applicationServerPublicKey = 'BCW6JPG-T7Jx0bYKMhAbL6j3DL3VTTib7dwvBjQ' +
  // 'C_496a12auzzKFnjgFjCsys_YtWkeMLhogfSlyM0CaIktx7o';
 
-  const applicationServerPublicKey = 'BAKGHBxj90hB3Hledmrbk_7Hj7b-FIqu3NQEM-h6u3-XV0e5vrYPzZOg75r9sli6jprr-p_csqm76CGXiLS4azs'
+  //const applicationServerPublicKey = 'BAKGHBxj90hB3Hledmrbk_7Hj7b-FIqu3NQEM-h6u3-XV0e5vrYPzZOg75r9sli6jprr-p_csqm76CGXiLS4azs'
+   const applicationServerPublicKey= 'BH22_quBxan_ULKt0RBh-gcuLJoGmbJTNaCxD1XBODlURXcr71Fe5BwYga0IOUVu0sxITfYxTRFIKXc2D7AZQFs';
 
 const pushButton = document.querySelector('.js-push-btn');
 
